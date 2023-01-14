@@ -1,5 +1,5 @@
 ## Hi there. I'm Merve...👋
-<h1 style="text-align:center;">Front-End Developer | React Developer</h1>
+<h1 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Front-End Developer | React Developer</h1>
 📌 Hi, i'm Merve Karakoca, +1 years experienced in IT and an expert front-end developer, interested in writing codes, skilled at developing complex solutions, creating responsive designs, possessing strong creative thinking skills, high energy and integrity. Ability to create algorithms effectively, and interact positively and communicate appropriately with team members. Quickly grasp new technologies and concepts to develop innovative and creative solutions to problems. Always eager to learn various technologies, tools and libraries. Especially interested in the Front end/Web Development, HTML, CSS, JS, React. Excited to learn new things and improve, lifetime student. <br> </br>
 
 🔭 I’m working on frontend React development (JavaScript | React | Typescript)
